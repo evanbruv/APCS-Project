@@ -43,7 +43,7 @@ header nav ul li {
 }
 
 .project img, .project iframe, #aboutme img {
-  width: 250px;
+  width: 350px;
   float: left;
   margin-right: 10px;
   margin-bottom: 10px;
