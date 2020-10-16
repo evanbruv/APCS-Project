@@ -42,7 +42,7 @@ header nav ul li {
   border-bottom: 1px solid rgb(0, 174, 255);
 }
 
-.project img, #aboutme img {
+.project img, .project iframe, #aboutme img {
   width: 250px;
   float: left;
   margin-right: 10px;
