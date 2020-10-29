@@ -28,7 +28,7 @@ header nav ul li {
   display: inline;
 }
 
-#project-container, #aboutme {
+#project-container, #aboutme, #cc {
   margin: 0 auto; /*centers projects div */
   width: 90%; /* adds space on either side */
   max-width: 600px; /* keeps div from getting too wide */
