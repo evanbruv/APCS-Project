@@ -28,7 +28,7 @@ header nav ul li {
   display: inline;
 }
 
-#project-container, #aboutme, #cc {
+#project-container, #aboutme, #cchecker {
   margin: 0 auto; /*centers projects div */
   width: 90%; /* adds space on either side */
   max-width: 600px; /* keeps div from getting too wide */
@@ -42,7 +42,7 @@ header nav ul li {
   border-bottom: 1px solid rgb(0, 174, 255);
 }
 
-.project img, #aboutme img, #cc img {
+.project img, #aboutme img, #cchecker img {
   width: 350px;
   float: left;
   margin-right: 10px;
@@ -58,7 +58,7 @@ header nav ul li {
 }
 
 
-.project h2, #aboutme h2, #cc h2 {
+.project h2, #aboutme h2, #cchecker h2 {
   font-size: 1.5em;
   margin-bottom: 10px;
 }
